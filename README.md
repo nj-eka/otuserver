@@ -3,7 +3,7 @@
 Tutorial implementation of a simple HTTP server using pure *socket* level that handles GET and HEAD requests with
 extensible request processing architecture based on *multiprocessing.pool.ThreadPool* functionality.
 
-**This web server is be able to:**
+**This web server is able to:**
 
 - Scale to multiple workers
 - **Count of workers** is specified by command line argument **-w**
